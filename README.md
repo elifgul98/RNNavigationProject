@@ -2,7 +2,7 @@ This project includes different font usage, creating components, contants, getti
 
 ![](https://github.com/elifgul98/RNNavigationProject/blob/main/navigation.gif)
 
-Detail Sceene is inspired by
+Detail Scene is inspired by
 
 ![](https://github.com/elifgul98/RNNavigationProject/blob/main/inspired.png)
 
