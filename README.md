@@ -1,7 +1,7 @@
 This project includes different font usage, creating components, contants, getting data from fake api, navigation stack practices
 
 
-![]([https://github.com/elifgul98/RNFirstHw/blob/main/Homework1.gif](https://github.com/elifgul98/RNNavigationProject/blob/main/navigation.gif))
+![](https://github.com/elifgul98/RNNavigationProject/blob/main/navigation.gif)
 
 Detail Sceene is inspired by
 ![]([https://github.com/elifgul98/RNFirstHw/blob/main/Homework1.gif](https://github.com/elifgul98/RNNavigationProject/blob/main/inspired.png))
